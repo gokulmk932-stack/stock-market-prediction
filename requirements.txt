@@ -4,4 +4,4 @@ numpy
 matplotlib
 plotly
 yfinance
-scikit-learn
+scikit-learn==1.7.1
