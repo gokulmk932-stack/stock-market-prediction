@@ -98,4 +98,5 @@ def login_user(username, password):
 
 
 # Create database when file runs
-create_table()
+create_table() 
+# Password hashing enabled
